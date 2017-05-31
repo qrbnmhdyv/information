@@ -1,0 +1,14 @@
+                              Musbet Cehetleri
+
+C oyrenmek bir cox ustunluk temin etmekdedir. 
+C dunya seviyyesinde qebul gormusdur.
+Elmi ve texniki movzulardaki ireli seviyye proqramlardan emeliyyat
+sistemlerine qeder bir sayda erize bu proqramlasdirma dili ile yazilmisdir
+C oyrenmenin bir diger ustunluyu de
+C-den inkisaf etmis bir cox proqramlasdirma dilinin temelini teskil edir olmasidir
+C proqramlasd?rma dilinde ustalasanlar diger proqramlasd?rma dill?rini asanliqla oyrene bilerler.
+                            
+                             Menfi cehetler
+C-den menfi cehetleri da vardir. C dilinde yazilan proqramlarin monitorinqi bir miqdar cetin ola biler,
+ cunki zengin islec verilenler program oxunagligini azaldar.
+bezi proqramci sehvleri ucun icra zamani desteyi temin etmez;

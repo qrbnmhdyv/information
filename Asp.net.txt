@@ -1,0 +1,14 @@
+musbet cehetler
+
+1.yenilenmish performans
+2.guc ve elastiklik
+3.istifadesi cox sadedir
+4.Proqramlasdirma Dilinde Musteqillik
+5. telefon programlama desteyi ve s.
+ 
+menfi cehetler
+
+1.yalnizca Windows ile ishlemesi
+2.Tam olaraq Guvenli deyildir. 
+3. Odenisli olmagi.
+ 

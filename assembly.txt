@@ -1,0 +1,12 @@
+                                         Menfi Cehetleri
+
+1) Assembly dili oyrenilmesi diger dillere gore cetindir ve zaman alir...
+2) Yazdigimiz programin hansi setirlerinin ne ish gorduyunu mueyyen vaxtdan sonra basha dushmeye bilerik
+3) Anlashilmasi cox cetin  ve qarishiq bir dildir
+ 
+                                         Musbet Cehetleri
+1) Bashqa bir dilde kod yaziriqsa ve problem yaranarsa ASSEMBLY ile problemi rahatligla hell ede biler
+2) Yazdigimiz dilde kodlar cox qarishiq oldugu ucun ozumuz bele inceleyende anlamaya bilerik. 
+Bu programin gizli qalmasi ucun avantajdir
+3)Her proqramlasd?rma dili masin diline cevrilir. Mashin  dili ise Assembly dilin? cevrilir.
+ Bu sekilde butun proqramlasdirma dillerine cetin de olsa hakim ola bilerik.
